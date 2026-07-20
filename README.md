@@ -83,7 +83,7 @@ The objective of this project was to build an interactive Power BI dashboard tha
 
 ## 📷 Dashboard Preview
 
-> Dashboard screenshot will be added here.
+> ![Retail Sales Dashboard](Images/Dashboard_Screenshot.png)
 
 ---
 
